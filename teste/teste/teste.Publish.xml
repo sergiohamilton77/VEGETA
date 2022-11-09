@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl=" ftp://155.254.244.39/www.Investcop.somee.com" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="True" msdeploySkipExtraFilesOnServer="False" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FTP" replaceMatchingFiles="False" userName="sergiobarrosgoku" savePWD="True" userPWD="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAl2DVDrx8BEKC5JYlBub77QAAAAACAAAAAAAQZgAAAAEAACAAAADA2qrid6ZWdXb4ea/jDok+FOabQTyPqkZes2VtfO0O4gAAAAAOgAAAAAIAACAAAACTE8RycBFuR+0CbJ0QX6irK2b8uvUzc7lq/cdCD5BwBiAAAACLhNFEEV3JM2HcXotuGH4JuaZjE10VJx6bYxxbR3yuiEAAAAB9RYkaq9oYjrU30MsjemClFY2Kf3JwghjjjCWcj+ifacZdU43SrtWwPCZKNFIjIXy1RQp4ITY57dCLoQIJMFiC" SelectedForPublish="False">
+    <file relUrl="Web.config" publishTime="11/16/2021 23:31:54" />
+    <file relUrl="Site.Master" publishTime="11/16/2021 23:31:15" />
+    <file relUrl="Account/Register.aspx" publishTime="11/11/2021 10:21:52" />
+    <file relUrl="bin/teste.dll" publishTime="11/16/2021 23:31:16" />
+    <file relUrl="bin/teste.pdb" publishTime="11/16/2021 23:31:16" />
+    <file relUrl="Account/Web.config" publishTime="11/11/2021 10:21:52" />
+    <file relUrl="Account/Login.aspx" publishTime="11/11/2021 10:21:52" />
+    <file relUrl="Styles/Site.css" publishTime="11/16/2021 21:49:14" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="11/11/2021 10:21:52" />
+    <file relUrl="Account/ChangePassword.aspx" publishTime="11/11/2021 10:21:52" />
+    <file relUrl="Manutencao.aspx" publishTime="11/16/2021 20:24:01" />
+    <file relUrl="Account/ChangePasswordSuccess.aspx" publishTime="11/11/2021 10:21:52" />
+    <file relUrl="Clientes.aspx" publishTime="11/16/2021 23:26:52" />
+    <file relUrl="Global.asax" publishTime="11/11/2021 10:21:52" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="11/11/2021 10:21:52" />
+    <file relUrl="About.aspx" publishTime="11/11/2021 10:21:52" />
+    <file relUrl="Ativos.aspx" publishTime="11/16/2021 22:28:13" />
+    <file relUrl="Default.aspx" publishTime="11/16/2021 19:57:40" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="11/11/2021 10:21:52" />
+  </publishProfile>
+  <publishProfile publishUrl="C:\Users\PROCESSOS\Desktop\teste" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile2" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="False">
+    <file relUrl="Web.config" publishTime="11/11/2021 14:24:09" />
+    <file relUrl="Site.Master" publishTime="11/11/2021 14:02:05" />
+    <file relUrl="Account/Web.config" publishTime="11/11/2021 10:21:51" />
+    <file relUrl="Account/Register.aspx" publishTime="11/11/2021 10:21:51" />
+    <file relUrl="bin/teste.pdb" publishTime="11/16/2021 11:56:49" />
+    <file relUrl="Account/ChangePasswordSuccess.aspx" publishTime="11/11/2021 10:21:51" />
+    <file relUrl="Account/Login.aspx" publishTime="11/11/2021 10:21:51" />
+    <file relUrl="Styles/Site.css" publishTime="11/11/2021 10:21:51" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="11/11/2021 10:21:51" />
+    <file relUrl="Account/ChangePassword.aspx" publishTime="11/11/2021 10:21:51" />
+    <file relUrl="Clientes.aspx" publishTime="11/11/2021 12:16:40" />
+    <file relUrl="bin/teste.dll" publishTime="11/16/2021 11:56:50" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="11/11/2021 10:21:51" />
+    <file relUrl="About.aspx" publishTime="11/11/2021 10:21:51" />
+    <file relUrl="Global.asax" publishTime="11/11/2021 10:21:51" />
+    <file relUrl="Default.aspx" publishTime="11/11/2021 10:21:51" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="11/11/2021 10:21:51" />
+  </publishProfile>
+  <publishProfile publishUrl="ftp://155.254.244.39/www.Investcop.somee.com" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile3" publishMethod="FTP" replaceMatchingFiles="False" userName="sergiobarrosgoku" savePWD="True" userPWD="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA/X9K+7juTkylBxxmZwj4YAAAAAACAAAAAAAQZgAAAAEAACAAAAC5pkS3KP5t949xQfek1XDAHUJULYvvgK87tQFOO/n6mgAAAAAOgAAAAAIAACAAAACXacH5h580XB30fzmHzsYRdOGhiwHLt9XGpyVtBHijDiAAAAAnh+dAo8aXLqT6TTAwiHZBdhz8quzt4u6g6F0iSx9eLUAAAABvCL5HrrgkjXmT/EGsmXemBnhttPGEGCGciwVzCEHo4lCkH7+312EKRj+hxmAvKYWLr57xENauawwspDJ5z1b5" SelectedForPublish="False">
+    <file relUrl="Clientes.aspx" publishTime="02/09/2022 14:17:23" />
+    <file relUrl="bin/teste.dll" publishTime="03/15/2022 09:34:10" />
+    <file relUrl="Manutencao.aspx" publishTime="02/23/2022 16:18:27" />
+    <file relUrl="Global.asax" publishTime="12/02/2021 15:07:08" />
+    <file relUrl="Site.Master" publishTime="02/03/2022 19:57:02" />
+    <file relUrl="Styles/Site.css" publishTime="03/08/2022 09:26:21" />
+    <file relUrl="bin/Microsoft.ReportViewer.WebForms.dll" publishTime="06/28/2011 01:35:08" />
+    <file relUrl="About.aspx" publishTime="12/02/2021 15:07:10" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="12/02/2021 15:07:16" />
+    <file relUrl="Error.aspx" publishTime="01/21/2022 15:25:28" />
+    <file relUrl="bin/Microsoft.ReportViewer.Common.dll" publishTime="12/09/2021 08:14:57" />
+    <file relUrl="Account/Web.config" publishTime="12/02/2021 15:07:10" />
+    <file relUrl="Account/Register.aspx" publishTime="12/02/2021 15:07:10" />
+    <file relUrl="bin/Microsoft.ReportViewer.WinForms.dll" publishTime="06/28/2011 01:35:08" />
+    <file relUrl="Account/Login.aspx" publishTime="01/28/2022 11:54:40" />
+    <file relUrl="AreaCliente.aspx" publishTime="02/04/2022 14:41:47" />
+    <file relUrl="bin/AjaxControlToolkit.dll" publishTime="12/02/2021 15:08:08" />
+    <file relUrl="Loginuser.aspx" publishTime="02/03/2022 14:56:08" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="12/02/2021 15:07:16" />
+    <file relUrl="Default.aspx" publishTime="02/02/2022 23:05:48" />
+    <file relUrl="Account/ChangePasswordSuccess.aspx" publishTime="12/02/2021 15:07:12" />
+    <file relUrl="bin/Microsoft.ReportViewer.WinForms.xml" publishTime="03/03/2010 21:11:32" />
+    <file relUrl="bin/itextsharp.dll" publishTime="01/22/2022 06:36:56" />
+    <file relUrl="Ativos.aspx" publishTime="02/02/2022 23:31:24" />
+    <file relUrl="bin/teste.pdb" publishTime="03/15/2022 09:34:09" />
+    <file relUrl="Account/ChangePassword.aspx" publishTime="12/02/2021 15:07:12" />
+    <file relUrl="auto.aspx" publishTime="12/02/2021 15:07:10" />
+    <file relUrl="bin/Microsoft.ReportViewer.WebForms.xml" publishTime="03/03/2010 21:11:32" />
+    <file relUrl="Web.config" publishTime="03/15/2022 11:09:25" />
+    <file relUrl="Callvenda.aspx" publishTime="03/03/2022 10:29:46" />
+    <file relUrl="Movimentacoes.aspx" publishTime="02/10/2022 14:04:24" />
+    <file relUrl="Site2.Master" publishTime="02/03/2022 19:59:46" />
+    <file relUrl="Callcompra.aspx" publishTime="01/20/2022 14:17:16" />
+    <file relUrl="Contratos.aspx" publishTime="02/07/2022 10:10:07" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="12/02/2021 15:07:18" />
+  </publishProfile>
+  <publishProfile publishUrl="ftp://investscorp.com.br/web" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile4" publishMethod="FTP" replaceMatchingFiles="True" userName="investscorp1" savePWD="True" userPWD="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA/X9K+7juTkylBxxmZwj4YAAAAAACAAAAAAAQZgAAAAEAACAAAADJjBX6iYs5DDTUepgH/zi3XL3iQKugL4ZLLr4dlP03BgAAAAAOgAAAAAIAACAAAADr5DVDNV3RnmfRlttfb+kN6RhMd4Nl6jLbFIdnTPsE6iAAAABqokaCLXgF8peE+pQn86x01SOuT5PXdwWwvMqisHqRr0AAAAA15ATq4ZndN3c61ZdNaF8+fqC1OAchSDCOZi4Opy88Ww5H46X8HcJvzV8T8jMrwvrufZl5tZCjKpojUIZZ/mKO" SelectedForPublish="True" />
+</publishData>

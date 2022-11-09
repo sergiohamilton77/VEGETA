@@ -1,0 +1,5 @@
+C:\Users\PROCESSOS\documents\visual studio 2010\Projects\teste\teste\bin\teste.dll
+C:\Users\PROCESSOS\documents\visual studio 2010\Projects\teste\teste\bin\teste.pdb
+C:\Users\PROCESSOS\documents\visual studio 2010\Projects\teste\teste\obj\Release\teste.dll
+C:\Users\PROCESSOS\documents\visual studio 2010\Projects\teste\teste\obj\Release\teste.pdb
+C:\Users\PROCESSOS\documents\visual studio 2010\Projects\teste\teste\obj\Release\teste.csprojResolveAssemblyReference.cache

@@ -1,0 +1,21 @@
+C:\Users\PROCESSOS\documents\visual studio 2010\Projects\teste\teste\bin\teste.dll
+C:\Users\PROCESSOS\documents\visual studio 2010\Projects\teste\teste\bin\teste.pdb
+C:\Users\PROCESSOS\documents\visual studio 2010\Projects\teste\teste\obj\Debug\teste.dll
+C:\Users\PROCESSOS\documents\visual studio 2010\Projects\teste\teste\obj\Debug\teste.pdb
+C:\Users\User\Desktop\teste\teste\bin\teste.dll
+C:\Users\User\Desktop\teste\teste\bin\teste.pdb
+C:\Users\User\Desktop\teste\teste\obj\Debug\teste.dll
+C:\Users\User\Desktop\teste\teste\obj\Debug\teste.pdb
+C:\Users\User\Documents\teste\teste\bin\teste.dll
+C:\Users\User\Documents\teste\teste\bin\teste.pdb
+C:\Users\User\Documents\teste\teste\obj\Debug\teste.dll
+C:\Users\User\Documents\teste\teste\obj\Debug\teste.pdb
+C:\Users\PROCESSOS\Documents\teste\teste\bin\teste.dll
+C:\Users\PROCESSOS\Documents\teste\teste\bin\teste.pdb
+C:\Users\PROCESSOS\Documents\teste\teste\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\PROCESSOS\Documents\teste\teste\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\PROCESSOS\Documents\teste\teste\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\PROCESSOS\Documents\teste\teste\bin\Microsoft.ReportViewer.WebForms.xml
+C:\Users\PROCESSOS\Documents\teste\teste\bin\Microsoft.ReportViewer.WinForms.xml
+C:\Users\PROCESSOS\Documents\teste\teste\obj\Debug\teste.dll
+C:\Users\PROCESSOS\Documents\teste\teste\obj\Debug\teste.pdb
